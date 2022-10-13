@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Laravel, Vue.js and other MVC frameworks**
 
-- 👨‍💻 All of my projects are available at [sarmiento100893.wixsite.com/sarmiento08](sarmiento100893.wixsite.com/sarmiento08)
-
 - 💬 Ask me about **HTML, Php, Mysql, CSS, Java, Javascript or C#**
 
 - 📫 How to reach me **sarmiento.100893@gmail.com**
