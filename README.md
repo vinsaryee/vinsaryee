@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevin John</h1>
 <h3 align="center">An aspiring web developer from Philippines</h3>
-<img align="right" alt="Coding" width="400" scr="https://imgs.search.brave.com/OC_3jYWo7N4Vax_ChTiZvZg9fSZnZpaPaXPKqf2qD80/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzkyNjUz/Ny9zY3JlZW5zaG90/cy80NTAyOTI0L3B5/dGhvbi0yLmdpZg.gif">
+<img scr="https://imgs.search.brave.com/OC_3jYWo7N4Vax_ChTiZvZg9fSZnZpaPaXPKqf2qD80/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzkyNjUz/Ny9zY3JlZW5zaG90/cy80NTAyOTI0L3B5/dGhvbi0yLmdpZg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinsaryee&label=Profile%20views&color=0e75b6&style=flat" alt="vinsaryee" /> </p>
 
